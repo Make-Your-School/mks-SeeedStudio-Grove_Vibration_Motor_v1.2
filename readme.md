@@ -1,4 +1,3 @@
-
 ---
 title: "Vibrationsmotor"
 date: "2018-10-01T14:26:43.000Z"
