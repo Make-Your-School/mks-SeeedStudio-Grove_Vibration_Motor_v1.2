@@ -3,7 +3,7 @@ title: "Vibrationsmotor"
 date: "2018-10-01T14:26:43.000Z"
 tags: 
   - "output"
-coverImage: "47_vibratonsmotor.jpg"
+coverImage: "47_vibratonsmotor.png"
 material_number: "47"
 material_type: "output"
 material_short_descr: "Seeed Studio Grove – Vibration Motor"
