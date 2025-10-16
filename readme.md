@@ -27,7 +27,17 @@ Der Miniatur-Vibrationsmotor erzeugt trotz des kleinen Bauraums eine relativ sta
 
 Alle weiteren Hintergrundinformationen sowie ein Beispielaufbau und alle notwendigen Programmbibliotheken sind auf dem offiziellen Wiki (bisher nur in englischer Sprache) von Seeed Studio zusammengefasst. Zusätzlich findet man über alle gängigen Suchmaschinen meist nur mit der Eingabe der genauen Komponenten-Bezeichnungen entsprechende Projektbeispiele und Tutorials.
 
+
+## Beispiel
+
+schau dir das Minimal-Beispiel an:
+
+```c++:public/mks/parts/mks-SeeedStudio-Grove_Vibration_Motor_v1.2/examples/Grove_Vibration_Motor_v1.2_minimal/Grove_Vibration_Motor_v1.2_minimal.ino
+// look in the linked file.
+```
+
 <!-- infolist -->
+
  
 
 ## Wichtige Links für die ersten Schritte:
